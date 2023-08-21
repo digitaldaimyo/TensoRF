@@ -15,10 +15,10 @@ update_AlphaMask_list = [2000,4000]
 N_vis = 5
 vis_every = 10000
 
-#render_test = 0
+render_test = 0
 
-n_lamb_sigma = [16,16,16]
-n_lamb_sh = [48,48,48]
+n_lamb_sigma = [8,8,8]
+n_lamb_sh = [24,24,24]
 model_name = TensorVMSplit
 
 
