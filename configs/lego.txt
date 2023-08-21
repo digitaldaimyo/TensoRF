@@ -2,10 +2,10 @@
 dataset_name = blender
 datadir = /content/data/nerf_synthetic/lego
 expname =  tensorf_lego_VM
-basedir = ./log
+basedir = /content/log
 
 n_iters = 30000
-batch_size = 4096
+batch_size = 1028
 
 N_voxel_init = 2097156 # 128**3
 N_voxel_final = 27000000 # 300**3
